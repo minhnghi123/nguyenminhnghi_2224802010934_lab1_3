@@ -2,7 +2,7 @@ Flutter Lab 1 - Bài 3
 Dự án code follow up instruction để hiểu về thành phần của Flutter cơ bản
 
 👤 Thông tin sinh viên
-Họ và tên: Nguyễn Minh Nghị
+Họ và tên: Nguyễn Minh Nghi
 
 Mã số sinh viên: 2224802010934
 
@@ -18,9 +18,9 @@ Dưới đây là video minh họa hoạt động của ứng dụng:
 🛠️ Mô tả bài làm
 Sử dụng Material 3 để thiết kế giao diện.
 
-Áp dụng StatefulWidget để quản lý trạng thái của biến đếm (_counter).
+Áp dụng StatelessWidget để làm trang tĩnh theo yêu cầu không có lưu trữ state.
 
-Thực hiện thay đổi giao diện theo thời gian thực thông qua hàm setState().
+Hiểu được cách Import và Declaration Images trong assets/images ở trong file cấu hình pubspec.yaml
 
 🚀 Hướng dẫn chạy nhanh
 Mở terminal tại thư mục dự án.
