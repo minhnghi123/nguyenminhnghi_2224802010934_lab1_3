@@ -1,17 +1,32 @@
-# nguyenminhnghi_2224802010934_lab1_3
+Flutter Lab 1 - Bài 3
+Dự án code follow up instruction để hiểu về thành phần của Flutter cơ bản
 
-A new Flutter project.
+👤 Thông tin sinh viên
+Họ và tên: Nguyễn Minh Nghị
 
-## Getting Started
+Mã số sinh viên: 2224802010934
 
-This project is a starting point for a Flutter application.
+Mã bài tập: LAB 1 - Bài 3
 
-A few resources to get you started if this is your first Flutter project:
+📽️ Demo kết quả
+Dưới đây là video minh họa hoạt động của ứng dụng:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<div align="center">
+<video src="https://github.com/user-attachments/assets/81468d75-5d82-41f4-876f-109e860f52b6" width="300px"></video>
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Mô tả bài làm
+Sử dụng Material 3 để thiết kế giao diện.
+
+Áp dụng StatefulWidget để quản lý trạng thái của biến đếm (_counter).
+
+Thực hiện thay đổi giao diện theo thời gian thực thông qua hàm setState().
+
+🚀 Hướng dẫn chạy nhanh
+Mở terminal tại thư mục dự án.
+
+Chạy lệnh tải thư viện: flutter pub get.
+
+Chạy ứng dụng: flutter run.
+
+© 2026 - Thủ Dầu Một University (TDMU)
